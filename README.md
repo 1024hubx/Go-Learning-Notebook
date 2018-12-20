@@ -1,6 +1,6 @@
 # Go-Learning-Notebook
 
-一个由golang爱好者一起维护一个最适合初学者的golang学习笔记
+由golang爱好者一起维护的致力于完成一个最适合初学者的golang学习笔记
 
 
 
